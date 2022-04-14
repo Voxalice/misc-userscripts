@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Genius - Bring Back Old Song Page
-// @namespace    http://github.com/Voxalice/
+// @namespace    https://github.com/Voxalice/
 // @version      2
 // @description  Automatically opts out of new song page
 // @author       Voxalice
