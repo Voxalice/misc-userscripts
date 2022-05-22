@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Youtube AutoCensor
-// @namespace    https://github.com/Voxalice
-// @version      1.0
+// @namespace    https://github.com/Voxalice/
+// @homepage     https://github.com/Voxalice/
+// @version      1.0.1
+// @encoding     utf-8
 // @description  Automatically mutes certain words (AUTOMATIC CAPTIONS)
+// @icon         https://youtube.com/favicon.ico
 // @author       Voxalice
 // @match        *://*.youtube.com/*
-// @icon         https://youtube.com/favicon.ico
-// @grant        none
 // ==/UserScript==
 
 /*/
